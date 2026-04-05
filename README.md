@@ -1,15 +1,19 @@
-### Hi, I'm Werner 👋
+### Werner Bättenhaussen
 
-I build AI agent systems for personal productivity — tools I use every day, not demos.
+**Product Manager** · London
 
-Currently exploring how far you can push AI-assisted workflows: agents that manage your tasks, trawl your information sources, operate your tools, and keep you focused on the work that actually needs a human.
+PM who builds. I use AI coding agents to ship tools that solve my own problems — at work and at home — then open-source them.
 
-#### What I'm building
+Right now I'm focused on AI-augmented productivity: agents that process my task inbox, pick what to work on next, trawl my information sources, and operate my tools — so I can focus on the decisions that actually need a human.
 
-- **[obsidian-gtd-cli](https://github.com/wernerbatt/obsidian-gtd-cli)** — Full GTD system driven by AI agents + the Obsidian CLI. Skills for inbox processing, weekly reviews, task prioritisation, and a `/next` command that picks your best task and helps execute it.
-- **[obsidian-skill](https://github.com/wernerbatt/obsidian-skill)** — Reusable [Agent Skill](https://agentskills.io/) for Obsidian vault operations. Read, write, search, and mutate vault files from any compatible agent.
-- **[atlassian-mcp](https://github.com/wernerbatt/atlassian-mcp)** — Jira & Confluence as CLI calls for AI agents, no native MCP needed.
+#### Projects
 
-#### Background
+🧠 **[obsidian-gtd-cli](https://github.com/wernerbatt/obsidian-gtd-cli)** — AI-driven GTD system for Obsidian. Skills for inbox processing, weekly reviews, task prioritisation, and a `/next` command that picks your best task and helps execute it.
 
-Product manager by trade. I got tired of waiting for someone to build the AI-powered productivity tools I wanted, so I built them myself.
+🔧 **[obsidian-skill](https://github.com/wernerbatt/obsidian-skill)** — Open [Agent Skill](https://agentskills.io/) for Obsidian vault operations. Read, write, search, and mutate vault files from any compatible AI agent.
+
+🔌 **[atlassian-mcp](https://github.com/wernerbatt/atlassian-mcp)** — Jira & Confluence wrapped as CLI calls for AI agents — no native MCP support needed.
+
+#### Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/wernerbatt/)
