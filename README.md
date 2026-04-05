@@ -17,3 +17,4 @@ Right now I'm focused on AI-augmented productivity: agents that process my task 
 #### Get in touch
 
 [LinkedIn](https://www.linkedin.com/in/wernerbatt/)
+
